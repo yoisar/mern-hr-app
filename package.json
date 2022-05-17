@@ -1,0 +1,21 @@
+{
+  "name": "hr-app",
+  "version": "1.0.0",
+  "description": "Human resourse application from scratch using MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/yois/mern-hr-app"
+  },
+  "keywords": [
+    "mern",
+    "apps",
+    "fullsatack",
+    "dev"
+  ],
+  "author": "yois",
+  "license": "ISC"
+}
